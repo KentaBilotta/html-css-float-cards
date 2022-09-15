@@ -25,6 +25,7 @@ h1{
 }
 
 .member-profile{
+    height: 100px;
     float: left;
     margin-left: 30px;
     margin-top: 50px;
